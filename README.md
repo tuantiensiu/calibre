@@ -38,6 +38,11 @@ calibre is a result of the efforts of many volunteers from all over the world.
 If you find it useful, please consider contributing to support its development.
 [Donate to support calibre development](https://calibre-ebook.com/donate).
 
+## Install for linux
+`https://calibre-ebook.com/download_linux`
+### Link document
+`https://manual.calibre-ebook.com/generated/en/ebook-convert.html#htmlz-output-options`
+
 ## Building calibre binaries
 
 See [Build instructions](bypy/README.rst) for instructions on how to build the
